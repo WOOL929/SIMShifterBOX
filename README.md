@@ -1,9 +1,9 @@
-BMW F-Series Shifter Controller
+
 
 Контроллер для симуляторов на базе  BMW F-Series шифтера и контроллера ESP32-S3 .
 
 Код имеет  USBHID Shifterbox Gamedevice
-Контроллер
+
 -Нажимает кнопки 30 и 31 на 30мс если с шифтера поступает + gear - gear в режиме M/S
 -Нажимает кнопки
 N  - Кнопка 1
